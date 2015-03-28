@@ -1,0 +1,5 @@
+Flask
+TwitterAPI
+wikipedia
+mechanize
+requests
